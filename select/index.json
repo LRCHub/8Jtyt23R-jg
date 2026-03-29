@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "BPM170の君へ",
   "base_artist": "=LOVE",
-  "createdAt": "2026-03-10T15:32:12.981815Z",
+  "createdAt": "2026-03-29T15:28:56.865996Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -19,6 +19,33 @@
       "artist": "=LOVE",
       "has_synced": false,
       "path": "select/pl_01_BPM170の君へ_=LOVE.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "BPM170の君へ",
+      "artist": "=LOVE",
+      "has_synced": true,
+      "path": "select/localdb_01_BPM170の君へ_=LOVE.lrc",
+      "repo_name": "8Jtyt23R-jg"
+    },
+    {
+      "id": "localdb_2",
+      "source": "localdb",
+      "title": "BPM170の君へ",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/localdb_02_BPM170の君へ_=LOVE.txt",
+      "repo_name": "tTVOV7PEjpg"
+    },
+    {
+      "id": "localdb_3",
+      "source": "localdb",
+      "title": "BPM170の君へ",
+      "artist": "=LOVE",
+      "has_synced": false,
+      "path": "select/localdb_03_BPM170の君へ_=LOVE.txt",
+      "repo_name": "TCTylb6qGdw"
     }
   ]
 }
